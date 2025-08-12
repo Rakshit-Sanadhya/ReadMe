@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking for opportunities for Data Analyst<br>🌱 I’m currently learning Web Scraping<br>💬 Ask me about Data Analytics<br>📫 Reach me through sanadhyarakshit@gmail.com
+🔭 I’m currently looking for opportunities for Data Science<br>🌱 I’m currently learning Data Structures and Algorithms<br>💬 Ask me about Data Science<br>📫 Reach me through sanadhyarakshit@gmail.com
 
 
 ## 🌐 Socials:
